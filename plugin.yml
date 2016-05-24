@@ -1,0 +1,4 @@
+name: CleverAPI
+author: akselm
+version: 1.0
+main: code.akselm.cleverapi.CleverAPI
